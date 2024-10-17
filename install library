@@ -1,0 +1,7 @@
+npm install redux 
+npm install @reduxjs/toolkit 
+npm install react-redux
+npm install react react-dom
+npm install bootstrap
+npm install @popperjs/core
+npm install react-bootstrap bootstrap
